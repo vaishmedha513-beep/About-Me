@@ -119,5 +119,4 @@ Committed to learning, building, and improving every day.
 
 
 
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and follow my journey as I grow as a developer.
 
